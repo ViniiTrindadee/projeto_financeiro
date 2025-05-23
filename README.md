@@ -54,16 +54,10 @@
 - Evolução mensal dos saldos de transferência
 - Saldo de transferências por empresa
 
-## Acesso ao Projeto
-- ✅ Repositório Privado no GitHub
-
----
 
 ## Desenvolvedor
 
 - **Vinicius da Silva**
-
----
 
 ## Observações
 - Todos os scripts SQL, ETL e dashboards estão devidamente organizados por pasta.
