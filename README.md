@@ -56,7 +56,6 @@
 
 ## Acesso ao Projeto
 - ✅ Repositório Privado no GitHub
-- ✅ Acesso concedido para o e-mail: **fernando910425@gmail.com**
 
 ---
 
